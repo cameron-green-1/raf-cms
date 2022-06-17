@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "holding_links",
+  "info": {
+    "singularName": "holding-link",
+    "pluralName": "holding-links",
+    "displayName": "Holding Link"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "string",
+      "default": "https://recruitment.raf.mod.uk/find-your-role"
+    }
+  }
+}
