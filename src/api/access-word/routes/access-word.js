@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * password router.
+ * access-word router.
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::password.password');
+module.exports = createCoreRouter('api::access-word.access-word');

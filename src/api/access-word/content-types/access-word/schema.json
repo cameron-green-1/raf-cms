@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "access_words",
+  "info": {
+    "singularName": "access-word",
+    "pluralName": "access-words",
+    "displayName": "Access Word",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "word": {
+      "type": "string",
+      "required": false,
+      "default": "RAF_W0rld@1"
+    }
+  }
+}

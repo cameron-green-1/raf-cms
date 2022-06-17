@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * password service.
+ * access-word service.
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::password.password');
+module.exports = createCoreService('api::access-word.access-word');
